@@ -1,0 +1,13 @@
+{
+  "ID": "7b21d178-5e41-40ae-904d-ce0653438515",
+  "Name": "Bitte Namen eingeben",
+  "Description": "",
+  "Rules": "sdasdasdasdasd",
+  "Type": "=",
+  "TraitLevelList": [
+    {
+      "Level": 1,
+      "Points": 0
+    }
+  ]
+}

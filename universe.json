@@ -1,4 +1,6 @@
 {
-	"Name"	:	"Demo",
-	"Description"	: "Stuff"
+	"name"	:	"Demo",
+	"description"	: "Stuff",
+	
+	"id" : "850ba387-284c-48f8-a920-38409fd6b440"
 }

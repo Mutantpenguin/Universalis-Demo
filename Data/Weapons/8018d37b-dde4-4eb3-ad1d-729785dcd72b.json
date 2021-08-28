@@ -1,0 +1,27 @@
+{
+  "ID": "8018d37b-dde4-4eb3-ad1d-729785dcd72b",
+  "Name": "Bitte Namen eingeben",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.0,
+  "AdditionalPoints": 0,
+  "WK": 1,
+  "Type": 2,
+  "Strength": 5,
+  "AdditiveStrength": true,
+  "Damage": 1,
+  "AF": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "IndirectFire": false,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": null,
+  "Range": {
+    "Length": 10,
+    "Amount": 1
+  },
+  "UseOnce": false
+}

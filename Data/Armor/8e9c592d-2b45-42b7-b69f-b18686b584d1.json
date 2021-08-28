@@ -1,0 +1,26 @@
+{
+  "ID": "8e9c592d-2b45-42b7-b69f-b18686b584d1",
+  "Name": "Bitte Namen eingeben",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 0.0,
+  "ProfileModifier": {
+    "Speed": 0,
+    "AttributeModifier": {
+      "AGI": 0,
+      "KO": 0,
+      "NK": 0,
+      "FK": 4,
+      "WN": 0,
+      "EH": 0
+    }
+  },
+  "Protection": 7,
+  "AdditiveProtection": true,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [],
+  "DamageEffectList": null,
+  "SelfSustaining": false
+}

@@ -1,0 +1,22 @@
+{
+  "ID": "f26717d6-c7e1-4aaf-b6cb-28c41d76a053",
+  "Name": "Elite Soldat",
+  "Description": "Bitte Beschreibung eingeben",
+  "Faction": "64929253-004b-41af-92b3-303763f9a51c",
+  "Profile": {
+    "Speed": 0,
+    "Size": 2,
+    "HitPoints": 5,
+    "MovementType": 0,
+    "Type": 1,
+    "Fov": 90,
+    "Attributes": {
+      "AGI": 0,
+      "KO": 4,
+      "NK": 0,
+      "FK": 0,
+      "WN": 4,
+      "EH": 0
+    }
+  }
+}

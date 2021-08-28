@@ -1,0 +1,21 @@
+{
+  "ID": "602d6d69-f5f2-4c19-865b-8334158f590e",
+  "Name": "Bitte Namen eingeben",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 0.0,
+  "UseOnce": false,
+  "AP": 0,
+  "ProfileModifier": {
+    "Speed": 0,
+    "AttributeModifier": {
+      "AGI": -12,
+      "KO": 0,
+      "NK": 0,
+      "FK": 0,
+      "WN": 0,
+      "EH": 0
+    }
+  }
+}

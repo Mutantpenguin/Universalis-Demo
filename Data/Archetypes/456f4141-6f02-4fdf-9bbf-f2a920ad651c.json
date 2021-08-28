@@ -1,0 +1,22 @@
+{
+  "ID": "456f4141-6f02-4fdf-9bbf-f2a920ad651c",
+  "Name": "Soldat",
+  "Description": "Bitte Beschreibung eingeben",
+  "Faction": "64929253-004b-41af-92b3-303763f9a51c",
+  "Profile": {
+    "Speed": 4,
+    "Size": 2,
+    "HitPoints": 5,
+    "MovementType": 2,
+    "Type": 1,
+    "Fov": 90,
+    "Attributes": {
+      "AGI": 4,
+      "KO": 4,
+      "NK": 4,
+      "FK": 4,
+      "WN": 4,
+      "EH": 4
+    }
+  }
+}

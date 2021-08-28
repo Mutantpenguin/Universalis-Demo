@@ -1,0 +1,22 @@
+{
+  "ID": "c8ee5315-9748-4310-b54c-c784ab4060c1",
+  "Name": "Normaler Soldat Franz",
+  "Description": "Bitte Beschreibung eingeben",
+  "Faction": "64929253-004b-41af-92b3-303763f9a51c",
+  "Profile": {
+    "Speed": 4,
+    "Size": 4,
+    "HitPoints": 5,
+    "MovementType": 2,
+    "Type": 3,
+    "Fov": 45,
+    "Attributes": {
+      "AGI": 4,
+      "KO": 4,
+      "NK": 1,
+      "FK": 4,
+      "WN": 11,
+      "EH": 4
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ID": "47a9b051-a0e7-473d-b894-19f0a0ee6f40",
+  "Name": "Pistole",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "AdditionalPoints": 0,
+  "WK": 1,
+  "Type": 1,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "AF": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": null,
+  "Range": {
+    "Length": 10,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

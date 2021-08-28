@@ -1,0 +1,27 @@
+{
+  "ID": "31f4f9e1-504e-4030-a188-1d3dd25b58ed",
+  "Name": "(Kopie von) Bitte Namen eingeben",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.0,
+  "AdditionalPoints": 0,
+  "WK": 1,
+  "Type": 1,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 1,
+  "AF": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "IndirectFire": false,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": null,
+  "Range": {
+    "Length": 10,
+    "Amount": 1
+  },
+  "UseOnce": false
+}
