@@ -1,0 +1,22 @@
+{
+  "ID": "9b58b6c6-dc2e-4a3d-8457-1e755de19586",
+  "Active": true,
+  "Name": "(Kopie von) Bitte Namen eingeben",
+  "Description": "",
+  "Rules": "sdasdasdasdasd",
+  "AdditionalPoints": 0,
+  "UseOnce": false,
+  "AP": 0,
+  "ProfileModifier": {
+    "Speed": 1,
+    "HitPoints": 2,
+    "AttributeModifier": {
+      "AGI": 3,
+      "HTH": 4,
+      "LRC": 5,
+      "PHY": 6,
+      "AWA": 7,
+      "DET": 8
+    }
+  }
+}
