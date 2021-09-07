@@ -1,6 +1,11 @@
 {
 	"name"	:	"Demo",
-	"description"	: "Stuff",
+	"description"	: "Demo Universum für den Tabletop Skirmisher \"Universalis\"",
 	
-	"id" : "850ba387-284c-48f8-a920-38409fd6b440"
+	"id" : "850ba387-284c-48f8-a920-38409fd6b440",
+	
+	"website" : "https://github.com/Mutantpenguin/Universalis-Demo",
+	
+	"author" : "Markus Lobedann"
+
 }
