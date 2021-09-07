@@ -1,16 +1,18 @@
 {
-  "ID": "5bdfc5b7-34a5-4373-8ca0-f9a8f5076ea3",
+  "ID": "4ff708fb-260b-48b7-92bd-e07506c45457",
   "Active": true,
-  "Name": "Bitte Namen eingeben 2",
+  "Name": "Kritty -4",
   "Description": "",
-  "Rules": "Bitte Regeln eingeben sd",
+  "Rules": "",
   "AdditionalPoints": 0,
+  "Weight": 0.0,
   "UseOnce": false,
+  "Unwieldy": false,
   "AP": 0,
   "ProfileModifier": {
     "Speed": 0,
     "HitPoints": 0,
-    "CritThreshold": -20,
+    "CritThreshold": -40,
     "AttributeModifier": {
       "AGI": 0,
       "HTH": 0,

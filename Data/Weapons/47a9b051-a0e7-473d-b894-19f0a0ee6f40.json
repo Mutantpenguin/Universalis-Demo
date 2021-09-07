@@ -1,16 +1,17 @@
 {
   "ID": "47a9b051-a0e7-473d-b894-19f0a0ee6f40",
+  "Active": true,
   "Name": "Pistole",
   "Description": "",
   "Rules": "",
   "Weight": 0.9,
   "AdditionalPoints": 0,
-  "WK": 1,
+  "Class": 1,
   "Type": 1,
   "Strength": 4,
   "AdditiveStrength": false,
   "Damage": 2,
-  "AF": 0,
+  "SustainedFire": 0,
   "Radius": 0,
   "Unwieldy": false,
   "Reloadable": false,
@@ -19,7 +20,20 @@
     "Type": 1,
     "Level": 1
   },
-  "DamageEffectList": null,
+  "DamageEffectList": [],
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 20,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 0,
+      "AWA": 0,
+      "DET": 0
+    }
+  },
   "Range": {
     "Length": 10,
     "Amount": 3

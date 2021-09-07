@@ -1,21 +1,32 @@
 {
   "ID": "44521673-5c73-432a-bb2e-42253fd4545c",
+  "Active": true,
   "Name": "Schutzweste",
   "Description": "",
   "Rules": "",
   "AdditionalPoints": 0,
   "Weight": 15.0,
-  "ProfileModifier": null,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 40,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 0,
+      "AWA": 0,
+      "DET": 0
+    }
+  },
   "Protection": 4,
   "AdditiveProtection": false,
-  "Camouflage": 0,
-  "CamouflageLevel": 0,
   "DamageTypeList": [
     {
       "Type": 1,
       "Level": 1
     }
   ],
-  "DamageEffectList": null,
+  "DamageEffectList": [],
   "SelfSustaining": false
 }

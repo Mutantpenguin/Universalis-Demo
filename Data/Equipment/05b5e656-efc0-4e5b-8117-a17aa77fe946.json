@@ -12,6 +12,7 @@
   "ProfileModifier": {
     "Speed": 3,
     "HitPoints": 0,
+    "Crit": -50,
     "AttributeModifier": {
       "AGI": 0,
       "HTH": 0,
