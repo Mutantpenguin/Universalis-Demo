@@ -1,0 +1,22 @@
+{
+  "ID": "c1a63bee-fad6-4a04-81ed-477b4b75f35a",
+  "Active": true,
+  "Name": "RX 75",
+  "Description": "Bitte Beschreibung eingeben",
+  "Faction": "64929253-004b-41af-92b3-303763f9a51c",
+  "Type": 2,
+  "Size": 4,
+  "MovementType": 2,
+  "Profile": {
+    "Speed": 6,
+    "HitPoints": 12,
+    "Attributes": {
+      "AGI": 2,
+      "HTH": 6,
+      "LRC": 2,
+      "PHY": 6,
+      "AWA": 2,
+      "DET": 6
+    }
+  }
+}
