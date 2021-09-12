@@ -6,6 +6,41 @@
 	
 	"website" : "https://github.com/Mutantpenguin/Universalis-Demo",
 	
-	"author" : "Markus Lobedann"
-
+	"author" : "Markus Lobedann",
+	
+	"costs": {
+		"AGI": 10,
+		"HTH": 10,
+		"LRC": 10,
+		"PHY": 15,
+		"AWA": 10,
+		"DET": 10,
+		"ModifierSurcharge": 1.2,
+		"Speed": 10,
+		"HitPoints": 15,
+		"CritThreshold": 20,
+		"MovementHover": 100,
+		"MovementFly": 80,
+		"MovementWalk": 50,
+		"MovementTracks": 70,
+		"MovementWheels": 70,
+		"MovementStationary": 0,
+		"WeaponStrength": 10,
+		"WeaponDamage": 20,
+		"WeaponDamageTypeLevelMultiplicator": 1.4,
+		"WeaponUseOnceMultiplicator": 0.35,
+		"WeaponUnwieldyMultiplicator": 0.8,
+		"WeaponReloadMultiplicator": 0.7,
+		"WeaponIndirectFireMultiplicator": 1.4,
+		"WeaponDamageEffectMultiplicator": 1.1,
+		"WeaponSustainedFireMultiplicator": 1.1,
+		"WeaponAdditiveStrengthMultiplicator": 1.2,
+		"ArmorProtection": 10,
+		"ArmorDamageTypeLevelMultiplicator": 1.3,
+		"ArmorDamageEffectMultiplicator": 1.1,
+		"ArmorSelfSustainingMultiplicator": 1.3,
+		"ArmorAdditiveProtectionMultiplicator": 1.2,
+		"EquipmentUseOnceMultiplicator": 0.35,
+		"EquipmentUnwieldyMultiplicator": 0.8
+	  }
 }
