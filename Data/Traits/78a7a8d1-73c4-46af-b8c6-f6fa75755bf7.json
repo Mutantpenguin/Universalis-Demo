@@ -1,0 +1,24 @@
+{
+  "ID": "78a7a8d1-73c4-46af-b8c6-f6fa75755bf7",
+  "Active": true,
+  "Name": "LevelTest",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": -5,
+      "PHY": 0,
+      "AWA": 0,
+      "DET": 0
+    }
+  }
+}

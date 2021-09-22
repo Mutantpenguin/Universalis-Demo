@@ -7,9 +7,11 @@
   "AdditionalPoints": 0,
   "UseOnce": false,
   "AP": 0,
+  "MaxLevel": 1,
   "ProfileModifier": {
     "Speed": 1,
     "HitPoints": 2,
+    "CritThreshold": 0,
     "AttributeModifier": {
       "AGI": 3,
       "HTH": 4,

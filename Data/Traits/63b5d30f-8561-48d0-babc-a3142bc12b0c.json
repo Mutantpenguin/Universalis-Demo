@@ -7,5 +7,6 @@
   "AdditionalPoints": 0,
   "UseOnce": false,
   "AP": 5,
+  "MaxLevel": 1,
   "ProfileModifier": null
 }
