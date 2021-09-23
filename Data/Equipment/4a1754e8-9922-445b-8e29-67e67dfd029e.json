@@ -1,0 +1,13 @@
+{
+  "ID": "4a1754e8-9922-445b-8e29-67e67dfd029e",
+  "Active": true,
+  "Name": "Feldgranate",
+  "Description": "",
+  "Rules": "lka södkadölk aölkd aÖ",
+  "AdditionalPoints": 50,
+  "Weight": 0.0,
+  "UseOnce": true,
+  "Unwieldy": false,
+  "AP": 5,
+  "ProfileModifier": null
+}
