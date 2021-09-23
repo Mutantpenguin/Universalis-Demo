@@ -1,0 +1,27 @@
+{
+  "ID": "463dee9a-15dd-4d4c-b367-c042c2ade108",
+  "Active": true,
+  "Name": "Granate",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.0,
+  "AdditionalPoints": 0,
+  "Class": 1,
+  "Type": 3,
+  "Strength": 1,
+  "AdditiveStrength": false,
+  "Damage": 1,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": true,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": [],
+  "ProfileModifier": null,
+  "Range": null,
+  "UseOnce": true
+}
