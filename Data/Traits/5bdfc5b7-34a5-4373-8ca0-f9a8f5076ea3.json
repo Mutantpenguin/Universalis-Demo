@@ -5,8 +5,9 @@
   "Description": "",
   "Rules": "Bitte Regeln eingeben sd",
   "AdditionalPoints": 0,
-  "UseOnce": false,
+  "UseOnce": true,
   "AP": 0,
+  "MaxLevel": 1,
   "ProfileModifier": {
     "Speed": 0,
     "HitPoints": 0,

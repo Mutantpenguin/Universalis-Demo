@@ -1,0 +1,12 @@
+{
+  "ID": "ce401d0a-082c-4168-ae1b-f8983271bd00",
+  "Active": true,
+  "Name": "Seife",
+  "Description": "",
+  "Rules": "Bitte Regeln eingeben",
+  "AdditionalPoints": 1,
+  "UseOnce": true,
+  "AP": 1,
+  "MaxLevel": 2,
+  "ProfileModifier": null
+}
