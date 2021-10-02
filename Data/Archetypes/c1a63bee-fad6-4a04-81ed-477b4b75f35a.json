@@ -18,5 +18,27 @@
       "AWA": 2,
       "DET": 6
     }
-  }
+  },
+  "TraitList": [
+    {
+      "ID": "c4733ef4-77c9-4c72-b1f5-52fea10bc85a",
+      "Trait": "24094937-c467-4eda-a512-b0dac78f1cc5",
+      "Level": 2
+    },
+    {
+      "ID": "598f8916-a06d-4a60-b7c7-0df0223b1535",
+      "Trait": "8d5cdcbd-fc82-4903-ab00-88f11c6ee4c0",
+      "Level": 5
+    },
+    {
+      "ID": "4c0458ef-f6c0-42ac-8516-4228cec562ae",
+      "Trait": "8d5cdcbd-fc82-4903-ab00-88f11c6ee4c0",
+      "Level": 1
+    },
+    {
+      "ID": "2e6bad53-f561-4186-99b3-3d918910b099",
+      "Trait": "ce401d0a-082c-4168-ae1b-f8983271bd00",
+      "Level": 1
+    }
+  ]
 }

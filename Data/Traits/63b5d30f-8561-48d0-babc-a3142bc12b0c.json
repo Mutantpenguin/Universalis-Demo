@@ -3,10 +3,22 @@
   "Active": true,
   "Name": "(Kopie von) Bitte Namen eingeben 2",
   "Description": "",
-  "Rules": "Bitte Regeln eingeben sd",
-  "AdditionalPoints": 0,
+  "Rules": "Bitte Regeln eingeben sd [LVL]",
+  "AdditionalPoints": 18,
   "UseOnce": false,
-  "AP": 5,
-  "MaxLevel": 1,
-  "ProfileModifier": null
+  "AP": 0,
+  "MaxLevel": 4,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 0,
+      "AWA": 3,
+      "DET": 0
+    }
+  }
 }

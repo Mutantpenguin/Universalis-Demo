@@ -4,12 +4,12 @@
   "Name": "Schutzweste",
   "Description": "",
   "Rules": "",
-  "AdditionalPoints": 0,
+  "AdditionalPoints": 32,
   "Weight": 15.0,
   "ProfileModifier": {
     "Speed": 0,
     "HitPoints": 0,
-    "CritThreshold": 40,
+    "CritThreshold": 0,
     "AttributeModifier": {
       "AGI": 0,
       "HTH": 0,

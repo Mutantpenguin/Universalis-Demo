@@ -1,24 +1,25 @@
 {
-  "ID": "5bdfc5b7-34a5-4373-8ca0-f9a8f5076ea3",
+  "ID": "ffe17f13-4d9f-4c0d-9db9-a9010f6ec458",
   "Active": true,
-  "Name": "Bitte Namen eingeben 2",
+  "Name": "Bitte Namen eingeben",
   "Description": "",
   "Rules": "",
-  "AdditionalPoints": -130,
+  "AdditionalPoints": 0,
+  "Weight": 0.0,
   "UseOnce": false,
-  "AP": 0,
-  "MaxLevel": 3,
+  "Unwieldy": false,
+  "AP": 4,
   "ProfileModifier": {
     "Speed": 0,
     "HitPoints": 0,
-    "CritThreshold": -20,
+    "CritThreshold": 0,
     "AttributeModifier": {
       "AGI": 0,
       "HTH": 0,
       "LRC": 0,
       "PHY": 0,
       "AWA": 0,
-      "DET": 0
+      "DET": 2
     }
   }
 }
