@@ -1,0 +1,36 @@
+{
+  "ID": "91027dd3-9891-4faf-a2a6-88d16fb4783d",
+  "Active": true,
+  "Name": "Servopanzer",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 0.0,
+  "ProfileModifier": {
+    "Speed": -2,
+    "HitPoints": 3,
+    "CritThreshold": -20,
+    "AttributeModifier": {
+      "AGI": -2,
+      "HTH": 0,
+      "LRC": 4,
+      "PHY": 0,
+      "AWA": 0,
+      "DET": 0
+    }
+  },
+  "Protection": 1,
+  "AdditiveProtection": false,
+  "DamageTypeList": [
+    {
+      "Type": 2,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    "7d0c3e36-c13d-4039-8e76-d45743e18ca8",
+    "56b42faf-421e-4c29-bd1c-0b4fe5d30fda",
+    "d9ef1270-9f7e-4821-b687-d4301a0aef16"
+  ],
+  "SelfSustaining": false
+}
