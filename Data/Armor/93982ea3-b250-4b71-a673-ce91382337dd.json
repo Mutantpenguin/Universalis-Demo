@@ -21,6 +21,6 @@
   "Camouflage": 0,
   "CamouflageLevel": 0,
   "DamageTypeList": [],
-  "DamageEffectList": [],
+  "DamageEffectSet": [],
   "SelfSustaining": false
 }

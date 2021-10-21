@@ -10,6 +10,6 @@
   "Protection": 7,
   "AdditiveProtection": true,
   "DamageTypeList": [],
-  "DamageEffectList": [],
+  "DamageEffectSet": [],
   "SelfSustaining": false
 }
