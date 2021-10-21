@@ -20,7 +20,7 @@
   "AdditiveProtection": false,
   "Camouflage": 0,
   "CamouflageLevel": 0,
-  "DamageTypeList": [],
-  "DamageEffectSet": [],
+  "DamageTypes": [],
+  "DamageEffects": [],
   "SelfSustaining": false
 }

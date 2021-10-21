@@ -9,7 +9,7 @@
   "ProfileModifier": null,
   "Protection": 7,
   "AdditiveProtection": true,
-  "DamageTypeList": [],
-  "DamageEffectSet": [],
+  "DamageTypes": [],
+  "DamageEffects": [],
   "SelfSustaining": false
 }

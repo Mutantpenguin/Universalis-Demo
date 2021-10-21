@@ -20,7 +20,7 @@
     "Type": 1,
     "Level": 1
   },
-  "DamageEffectSet": [],
+  "DamageEffects": [],
   "ProfileModifier": null,
   "Range": null,
   "UseOnce": true

@@ -21,12 +21,12 @@
   },
   "Protection": 4,
   "AdditiveProtection": false,
-  "DamageTypeList": [
+  "DamageTypes": [
     {
       "Type": 1,
       "Level": 1
     }
   ],
-  "DamageEffectSet": {},
+  "DamageEffects": {},
   "SelfSustaining": false
 }

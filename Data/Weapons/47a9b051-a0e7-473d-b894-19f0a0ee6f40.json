@@ -20,7 +20,7 @@
     "Type": 1,
     "Level": 1
   },
-  "DamageEffectSet": [
+  "DamageEffects": [
     "ffde5860-1eac-4b66-97e2-022cf3521b47",
     "bc63ce53-06f2-42dc-8610-d5cade7dd198"
   ],

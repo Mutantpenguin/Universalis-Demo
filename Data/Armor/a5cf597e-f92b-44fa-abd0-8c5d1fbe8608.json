@@ -9,8 +9,8 @@
   "ProfileModifier": null,
   "Protection": 1,
   "AdditiveProtection": false,
-  "DamageTypeList": [],
-  "DamageEffectSet": [
+  "DamageTypes": [],
+  "DamageEffects": [
     "bc63ce53-06f2-42dc-8610-d5cade7dd198",
     "56b42faf-421e-4c29-bd1c-0b4fe5d30fda"
   ],
