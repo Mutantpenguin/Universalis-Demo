@@ -1,0 +1,12 @@
+{
+  "ID": "16ec956b-f41d-48b7-b98c-f5ce6104bab8",
+  "Active": true,
+  "Name": "Regeneration",
+  "Description": "",
+  "Rules": "Blah",
+  "AdditionalPoints": 10,
+  "UseOnce": true,
+  "AP": 2,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}
