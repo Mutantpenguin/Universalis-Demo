@@ -1,0 +1,12 @@
+{
+  "ID": "57537107-266a-4b39-bb0c-30a4fd5e8127",
+  "Active": true,
+  "Name": "Pech",
+  "Description": "",
+  "Rules": "Kann pro Runde einmal vom Gegner gezwungen werden einen beliebigen eigenen Würfelwurf neu durchführen.",
+  "AdditionalPoints": -1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

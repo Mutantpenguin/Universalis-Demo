@@ -1,0 +1,12 @@
+{
+  "ID": "150b6e3b-b276-4820-8ecb-4d3d7ff2bbc2",
+  "Active": true,
+  "Name": "Abgehärtet",
+  "Description": "",
+  "Rules": "Im kritischen Zustand erhalten die Attributswürfe keinen Malus von -1.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

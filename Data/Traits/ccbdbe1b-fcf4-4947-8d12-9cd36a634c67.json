@@ -1,9 +1,9 @@
 {
-  "ID": "9805f823-b343-4430-80e6-d9d3dfba9342",
+  "ID": "ccbdbe1b-fcf4-4947-8d12-9cd36a634c67",
   "Active": true,
-  "Name": "validit-test",
+  "Name": "Gecko",
   "Description": "",
-  "Rules": "",
+  "Rules": "Kann sich auch vertikal an Geländeteilen entlang bewegen.",
   "AdditionalPoints": 1,
   "UseOnce": false,
   "AP": 0,

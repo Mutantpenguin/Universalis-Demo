@@ -1,0 +1,12 @@
+{
+  "ID": "c56f6fa9-ac6b-423b-b0ee-866e7c3230e1",
+  "Active": true,
+  "Name": "Nahkampfspezialist",
+  "Description": "",
+  "Rules": "Der Nahkampfgegner kann [LVL] mal dazu gezwungen werden seinen Nahkampfwurf neu zu würfeln.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null
+}

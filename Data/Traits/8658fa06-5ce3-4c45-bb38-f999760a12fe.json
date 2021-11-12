@@ -1,0 +1,12 @@
+{
+  "ID": "8658fa06-5ce3-4c45-bb38-f999760a12fe",
+  "Active": true,
+  "Name": "David gegen Goliath",
+  "Description": "",
+  "Rules": "Wenn das Modell als Angreifer von ausserhalb des Sichtfeldes angreift und über ein kleineres Größenprofil verfügt darf es sich bei Kolossen die Trefferzone aussuchen.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

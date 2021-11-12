@@ -1,0 +1,12 @@
+{
+  "ID": "584bafcf-4acd-43d3-96e4-db8b2bf8eec6",
+  "Active": true,
+  "Name": "Geländegängigkeit",
+  "Description": "",
+  "Rules": "Die Passierbarkeit jedes Geländes wird um [LVL] verbessert. Sie kann dabei nicht besser als 0 werden.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null
+}

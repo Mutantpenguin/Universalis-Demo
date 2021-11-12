@@ -1,0 +1,12 @@
+{
+  "ID": "31ed0d13-0e4a-401b-ab31-3139acd59cab",
+  "Active": true,
+  "Name": "Absolute Regeneration",
+  "Description": "",
+  "Rules": "Zum Beginn jeder Initiativephase des Modells werden seine Trefferpunkte wieder voll aufgefüllt.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

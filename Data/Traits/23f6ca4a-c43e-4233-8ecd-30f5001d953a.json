@@ -1,0 +1,12 @@
+{
+  "ID": "23f6ca4a-c43e-4233-8ecd-30f5001d953a",
+  "Active": true,
+  "Name": "Bluter",
+  "Description": "",
+  "Rules": "Jeder erlittene Schaden wird um 1 erhöht.",
+  "AdditionalPoints": -1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

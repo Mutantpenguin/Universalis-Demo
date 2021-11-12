@@ -1,0 +1,12 @@
+{
+  "ID": "7c5e703e-e69a-411d-9bfd-915ebddfc9a8",
+  "Active": true,
+  "Name": "Bewährter Nahkämpfer",
+  "Description": "",
+  "Rules": "Das Modell darf [LVL] mal seinen Nahkampfwurf neu würfeln.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null
+}

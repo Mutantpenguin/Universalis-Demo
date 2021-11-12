@@ -1,0 +1,12 @@
+{
+  "ID": "89d6d8fb-6561-4f25-b8d7-6e907657fb28",
+  "Active": true,
+  "Name": "Zäh",
+  "Description": "",
+  "Rules": "Jeder erlittene Schaden wird um [LVL] verringert.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null
+}

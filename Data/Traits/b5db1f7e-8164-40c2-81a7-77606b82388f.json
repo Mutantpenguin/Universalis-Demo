@@ -1,0 +1,12 @@
+{
+  "ID": "b5db1f7e-8164-40c2-81a7-77606b82388f",
+  "Active": true,
+  "Name": "Riposte",
+  "Description": "",
+  "Rules": "Bekommt bei der Reaktion \"Gegenangriff\" einen Bonus von +2 auf seinen NK-Wurf falls es sich bei dem vorhergehenden Nahkampf erfolgreich verteidigt hat.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

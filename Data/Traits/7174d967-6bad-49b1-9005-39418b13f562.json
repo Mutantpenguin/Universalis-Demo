@@ -1,0 +1,12 @@
+{
+  "ID": "7174d967-6bad-49b1-9005-39418b13f562",
+  "Active": true,
+  "Name": "7. Sinn",
+  "Description": "",
+  "Rules": "Bekommt bei der Reaktion \"Beschuss Ausweichen\" einen Bonus von +2 auf den vergleichenden AGI-Wurf.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

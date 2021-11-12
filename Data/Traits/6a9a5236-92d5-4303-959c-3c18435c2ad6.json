@@ -1,0 +1,12 @@
+{
+  "ID": "6a9a5236-92d5-4303-959c-3c18435c2ad6",
+  "Active": true,
+  "Name": "Selbstverzehrung",
+  "Description": "",
+  "Rules": "Pro ausgegebenem Trefferpunkt erhält das Modell 1 AP.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

@@ -19,31 +19,5 @@
       "DET": 1
     }
   },
-  "Traits": [
-    {
-      "ID": "906a4b24-35e5-4e3f-ad6b-259736440d66",
-      "Trait": "24094937-c467-4eda-a512-b0dac78f1cc5",
-      "Level": 1
-    },
-    {
-      "ID": "46a7a85d-c817-4e46-a06f-415fa10fb7b8",
-      "Trait": "9805f823-b343-4430-80e6-d9d3dfba9342",
-      "Level": 1
-    },
-    {
-      "ID": "6c06be26-c6df-4171-97b5-86755a1e7562",
-      "Trait": "8d5cdcbd-fc82-4903-ab00-88f11c6ee4c0",
-      "Level": 1
-    },
-    {
-      "ID": "62b09b08-5192-4277-ac92-e586b7291ae0",
-      "Trait": "8d5cdcbd-fc82-4903-ab00-88f11c6ee4c0",
-      "Level": 1
-    },
-    {
-      "ID": "05b213f6-7a46-4aac-81b2-b284ee1a8494",
-      "Trait": "8d5cdcbd-fc82-4903-ab00-88f11c6ee4c0",
-      "Level": 1
-    }
-  ]
+  "Traits": []
 }
