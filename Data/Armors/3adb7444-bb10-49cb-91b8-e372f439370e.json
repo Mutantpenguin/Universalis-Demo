@@ -1,15 +1,17 @@
 {
-  "ID": "a5cf597e-f92b-44fa-abd0-8c5d1fbe8608",
+  "ID": "3adb7444-bb10-49cb-91b8-e372f439370e",
   "Active": true,
-  "Name": "Whitelist Test",
+  "Name": "Gefechtsanzug",
   "Description": "",
   "Rules": "",
   "AdditionalPoints": 0,
   "Weight": 0.0,
   "ProfileModifier": null,
-  "Protection": 1,
+  "Protection": 8,
   "AdditiveProtection": false,
   "DamageReduction": 2,
-  "DamageEffects": [],
+  "DamageEffects": [
+    "0f892d17-e315-4d78-a93c-720d437f1cda"
+  ],
   "SelfSustaining": false
 }

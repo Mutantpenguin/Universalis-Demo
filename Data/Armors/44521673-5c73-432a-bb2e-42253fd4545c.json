@@ -21,12 +21,6 @@
   },
   "Protection": 4,
   "AdditiveProtection": false,
-  "DamageTypes": [
-    {
-      "Type": 1,
-      "Level": 1
-    }
-  ],
-  "DamageEffects": {},
+  "DamageEffects": [],
   "SelfSustaining": false
 }

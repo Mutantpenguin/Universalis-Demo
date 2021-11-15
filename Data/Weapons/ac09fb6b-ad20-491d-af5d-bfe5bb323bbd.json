@@ -1,23 +1,25 @@
 {
-  "ID": "463dee9a-15dd-4d4c-b367-c042c2ade108",
+  "ID": "ac09fb6b-ad20-491d-af5d-bfe5bb323bbd",
   "Active": true,
-  "Name": "Granate",
+  "Name": "Mono-Schwert",
   "Description": "",
   "Rules": "",
   "Weight": 0.0,
   "AdditionalPoints": 0,
   "Class": 1,
-  "Type": 3,
-  "Strength": 1,
+  "Type": 2,
+  "Strength": 6,
   "AdditiveStrength": false,
   "Damage": 1,
   "SustainedFire": 0,
-  "Radius": 5,
+  "Radius": 0,
   "Unwieldy": false,
   "Reloadable": false,
-  "IndirectFire": true,
-  "DamageEffects": [],
+  "IndirectFire": false,
+  "DamageEffects": [
+    "3c78b31d-e455-4e35-a9d9-8feb1b14a245"
+  ],
   "ProfileModifier": null,
   "Range": null,
-  "UseOnce": true
+  "UseOnce": false
 }
