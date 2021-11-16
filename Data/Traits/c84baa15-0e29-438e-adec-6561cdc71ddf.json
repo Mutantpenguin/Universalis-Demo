@@ -1,12 +1,12 @@
 {
-  "ID": "6a9a5236-92d5-4303-959c-3c18435c2ad6",
+  "ID": "c84baa15-0e29-438e-adec-6561cdc71ddf",
   "Active": true,
   "Name": "Selbstverzehrung",
   "Description": "",
-  "Rules": "Pro ausgegebenem Trefferpunkt erhält das Modell 1 AP.",
+  "Rules": "Pro ausgegebenem Trefferpunkt erhält das Modell [LVL] AP.",
   "AdditionalPoints": 1,
   "UseOnce": false,
   "AP": 0,
-  "MaxLevel": 1,
+  "MaxLevel": 3,
   "ProfileModifier": null
 }
