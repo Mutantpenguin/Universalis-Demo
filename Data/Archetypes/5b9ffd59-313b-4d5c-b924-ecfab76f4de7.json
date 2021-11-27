@@ -1,0 +1,23 @@
+{
+  "ID": "5b9ffd59-313b-4d5c-b924-ecfab76f4de7",
+  "Active": true,
+  "Name": "MTF-Soldat",
+  "Description": null,
+  "Faction": "0a0fd6cc-d8ec-4e59-be5b-ea04b5446f69",
+  "Type": 1,
+  "Size": 2,
+  "MovementType": 2,
+  "Profile": {
+    "Speed": 4,
+    "HitPoints": 5,
+    "Attributes": {
+      "AGI": 5,
+      "HTH": 5,
+      "LRC": 5,
+      "PHY": 5,
+      "AWA": 5,
+      "DET": 5
+    }
+  },
+  "Traits": []
+}
