@@ -6,7 +6,7 @@
   "Faction": "0a0fd6cc-d8ec-4e59-be5b-ea04b5446f69",
   "Type": 3,
   "Size": 1,
-  "MovementType": 2,
+  "MovementType": 1,
   "Profile": {
     "Speed": 7,
     "HitPoints": 4,
