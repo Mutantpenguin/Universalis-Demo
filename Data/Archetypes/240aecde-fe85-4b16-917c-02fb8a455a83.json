@@ -1,9 +1,9 @@
 {
-  "ID": "5b9ffd59-313b-4d5c-b924-ecfab76f4de7",
+  "ID": "240aecde-fe85-4b16-917c-02fb8a455a83",
   "Active": true,
   "Name": "Soldat",
   "Description": null,
-  "Faction": "0a0fd6cc-d8ec-4e59-be5b-ea04b5446f69",
+  "Faction": "3984b6b6-297a-418c-918b-1f4335cce7d6",
   "Type": 1,
   "Size": 2,
   "MovementType": 2,

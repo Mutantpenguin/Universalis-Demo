@@ -1,0 +1,23 @@
+{
+  "ID": "43f815f9-61b0-4098-870b-776300ba2877",
+  "Active": true,
+  "Name": "Dschungelveteran",
+  "Description": null,
+  "Faction": "3984b6b6-297a-418c-918b-1f4335cce7d6",
+  "Type": 1,
+  "Size": 2,
+  "MovementType": 2,
+  "Profile": {
+    "Speed": 5,
+    "HitPoints": 6,
+    "Attributes": {
+      "AGI": 6,
+      "HTH": 6,
+      "LRC": 6,
+      "PHY": 6,
+      "AWA": 6,
+      "DET": 6
+    }
+  },
+  "Traits": []
+}

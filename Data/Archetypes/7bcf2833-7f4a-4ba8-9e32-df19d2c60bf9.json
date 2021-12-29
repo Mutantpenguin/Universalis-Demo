@@ -1,22 +1,22 @@
 {
-  "ID": "5b9ffd59-313b-4d5c-b924-ecfab76f4de7",
+  "ID": "7bcf2833-7f4a-4ba8-9e32-df19d2c60bf9",
   "Active": true,
-  "Name": "Soldat",
+  "Name": "Veteran",
   "Description": null,
   "Faction": "0a0fd6cc-d8ec-4e59-be5b-ea04b5446f69",
   "Type": 1,
   "Size": 2,
   "MovementType": 2,
   "Profile": {
-    "Speed": 4,
-    "HitPoints": 5,
+    "Speed": 5,
+    "HitPoints": 6,
     "Attributes": {
-      "AGI": 4,
-      "HTH": 4,
-      "LRC": 4,
-      "PHY": 4,
-      "AWA": 4,
-      "DET": 4
+      "AGI": 6,
+      "HTH": 6,
+      "LRC": 6,
+      "PHY": 6,
+      "AWA": 6,
+      "DET": 6
     }
   },
   "Traits": []
