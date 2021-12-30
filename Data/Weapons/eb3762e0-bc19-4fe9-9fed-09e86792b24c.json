@@ -1,25 +1,23 @@
 {
-  "ID": "463dee9a-15dd-4d4c-b367-c042c2ade108",
+  "ID": "eb3762e0-bc19-4fe9-9fed-09e86792b24c",
   "Active": true,
-  "Name": "Splitterhandgranate",
+  "Name": "Buschmesser",
   "Description": "",
   "Rules": "",
-  "Weight": 0.5,
+  "Weight": 0.9,
   "AdditionalPoints": 0,
   "Class": 2,
-  "Type": 3,
+  "Type": 2,
   "Strength": 5,
   "AdditiveStrength": false,
   "Damage": 3,
   "SustainedFire": 0,
-  "Radius": 7,
+  "Radius": 0,
   "Unwieldy": false,
   "Reloadable": false,
-  "IndirectFire": true,
-  "DamageEffects": [
-    "19ed035e-8451-4607-ae1c-bb836d5db6c3"
-  ],
+  "IndirectFire": false,
+  "DamageEffects": [],
   "ProfileModifier": null,
   "Range": null,
-  "UseOnce": true
+  "UseOnce": false
 }

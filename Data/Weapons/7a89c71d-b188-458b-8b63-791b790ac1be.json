@@ -1,25 +1,26 @@
 {
-  "ID": "ac09fb6b-ad20-491d-af5d-bfe5bb323bbd",
+  "ID": "7a89c71d-b188-458b-8b63-791b790ac1be",
   "Active": true,
-  "Name": "Mono-Schwert",
+  "Name": "Sturmgewehr III",
   "Description": "",
   "Rules": "",
-  "Weight": 1.0,
+  "Weight": 3.0,
   "AdditionalPoints": 0,
   "Class": 2,
-  "Type": 2,
-  "Strength": 6,
+  "Type": 1,
+  "Strength": 5,
   "AdditiveStrength": false,
   "Damage": 2,
-  "SustainedFire": 0,
+  "SustainedFire": 1,
   "Radius": 0,
   "Unwieldy": false,
   "Reloadable": false,
   "IndirectFire": false,
-  "DamageEffects": [
-    "3c78b31d-e455-4e35-a9d9-8feb1b14a245"
-  ],
+  "DamageEffects": [],
   "ProfileModifier": null,
-  "Range": null,
+  "Range": {
+    "Length": 20,
+    "Amount": 4
+  },
   "UseOnce": false
 }

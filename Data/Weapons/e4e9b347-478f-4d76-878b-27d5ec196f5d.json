@@ -1,7 +1,7 @@
 {
-  "ID": "47a9b051-a0e7-473d-b894-19f0a0ee6f40",
+  "ID": "e4e9b347-478f-4d76-878b-27d5ec196f5d",
   "Active": true,
-  "Name": "Pistole",
+  "Name": "Maschinenpistole",
   "Description": "",
   "Rules": "",
   "Weight": 0.9,
@@ -11,7 +11,7 @@
   "Strength": 4,
   "AdditiveStrength": false,
   "Damage": 2,
-  "SustainedFire": 0,
+  "SustainedFire": 1,
   "Radius": 0,
   "Unwieldy": false,
   "Reloadable": false,

@@ -1,25 +1,28 @@
 {
-  "ID": "ac09fb6b-ad20-491d-af5d-bfe5bb323bbd",
+  "ID": "e0521210-06fa-4ce7-a850-37c14c6c6321",
   "Active": true,
-  "Name": "Mono-Schwert",
+  "Name": "Schrotflinte",
   "Description": "",
   "Rules": "",
-  "Weight": 1.0,
+  "Weight": 3.8,
   "AdditionalPoints": 0,
   "Class": 2,
-  "Type": 2,
-  "Strength": 6,
+  "Type": 1,
+  "Strength": 4,
   "AdditiveStrength": false,
   "Damage": 2,
-  "SustainedFire": 0,
+  "SustainedFire": 1,
   "Radius": 0,
   "Unwieldy": false,
   "Reloadable": false,
   "IndirectFire": false,
   "DamageEffects": [
-    "3c78b31d-e455-4e35-a9d9-8feb1b14a245"
+    "19ed035e-8451-4607-ae1c-bb836d5db6c3"
   ],
   "ProfileModifier": null,
-  "Range": null,
+  "Range": {
+    "Length": 8,
+    "Amount": 3
+  },
   "UseOnce": false
 }
