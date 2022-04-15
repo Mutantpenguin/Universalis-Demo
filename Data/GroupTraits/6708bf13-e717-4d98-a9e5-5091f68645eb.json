@@ -4,5 +4,11 @@
   "Name": "Vorwärts!",
   "Description": null,
   "Rules": "Jedes Modell darf 1 Mal im Spiel einen weiteren Aktionspunkt ausgeben.",
-  "PointsPerModel": 95
+  "PointsPerModel": 95,
+  "FactionPermissions": {
+    "PermissionType": 2,
+    "Values": [
+      "3984b6b6-297a-418c-918b-1f4335cce7d6"
+    ]
+  }
 }

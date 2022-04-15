@@ -4,5 +4,11 @@
   "Name": "Dschungelkämpfer",
   "Description": null,
   "Rules": "Jedes Modell erhält in Geländeteilen vom Typ Dickicht und Wald einen Bonus von +1 auf die Passierbarkeit und die Deckung.",
-  "PointsPerModel": 110
+  "PointsPerModel": 110,
+  "FactionPermissions": {
+    "PermissionType": 1,
+    "Values": [
+      "3984b6b6-297a-418c-918b-1f4335cce7d6"
+    ]
+  }
 }

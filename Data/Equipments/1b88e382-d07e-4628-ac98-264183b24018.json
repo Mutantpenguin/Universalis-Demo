@@ -9,5 +9,25 @@
   "UseOnce": true,
   "Unwieldy": false,
   "AP": 3,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": {
+    "Faction": {
+      "PermissionType": 0
+    },
+    "Archetype": {
+      "PermissionType": 0
+    },
+    "Type": {
+      "PermissionType": 1,
+      "Values": [
+        1
+      ]
+    },
+    "Size": {
+      "PermissionType": 0
+    },
+    "MovementType": {
+      "PermissionType": 0
+    }
+  }
 }

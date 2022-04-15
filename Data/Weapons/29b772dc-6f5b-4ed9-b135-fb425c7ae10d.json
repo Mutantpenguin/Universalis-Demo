@@ -20,6 +20,26 @@
     "3c78b31d-e455-4e35-a9d9-8feb1b14a245"
   ],
   "ProfileModifier": null,
+  "Permissions": {
+    "Faction": {
+      "PermissionType": 0
+    },
+    "Archetype": {
+      "PermissionType": 0
+    },
+    "Type": {
+      "PermissionType": 2,
+      "Values": [
+        1
+      ]
+    },
+    "Size": {
+      "PermissionType": 0
+    },
+    "MovementType": {
+      "PermissionType": 0
+    }
+  },
   "Range": null,
   "UseOnce": false
 }

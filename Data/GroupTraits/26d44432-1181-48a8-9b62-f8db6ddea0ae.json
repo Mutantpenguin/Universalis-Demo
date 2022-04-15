@@ -4,5 +4,11 @@
   "Name": "Unerschütterlich",
   "Description": null,
   "Rules": "EH-Tests dürfen 1 Mal wiederholt werden.",
-  "PointsPerModel": 80
+  "PointsPerModel": 80,
+  "FactionPermissions": {
+    "PermissionType": 2,
+    "Values": [
+      "64929253-004b-41af-92b3-303763f9a51c"
+    ]
+  }
 }

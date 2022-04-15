@@ -8,5 +8,25 @@
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": {
+    "Faction": {
+      "PermissionType": 0
+    },
+    "Archetype": {
+      "PermissionType": 1,
+      "Values": [
+        "5b9ffd59-313b-4d5c-b924-ecfab76f4de7"
+      ]
+    },
+    "Type": {
+      "PermissionType": 0
+    },
+    "Size": {
+      "PermissionType": 0
+    },
+    "MovementType": {
+      "PermissionType": 0
+    }
+  }
 }

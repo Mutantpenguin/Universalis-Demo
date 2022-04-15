@@ -18,6 +18,27 @@
   "IndirectFire": false,
   "DamageEffects": [],
   "ProfileModifier": null,
+  "Permissions": {
+    "Faction": {
+      "PermissionType": 0
+    },
+    "Archetype": {
+      "PermissionType": 0
+    },
+    "Type": {
+      "PermissionType": 0
+    },
+    "Size": {
+      "PermissionType": 1,
+      "Values": [
+        2,
+        3
+      ]
+    },
+    "MovementType": {
+      "PermissionType": 0
+    }
+  },
   "Range": {
     "Length": 25,
     "Amount": 4
