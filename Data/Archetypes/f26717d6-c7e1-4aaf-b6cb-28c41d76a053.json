@@ -3,6 +3,8 @@
   "Active": true,
   "Name": "Elite Soldat",
   "Description": "Bitte Beschreibung eingeben",
+  "Rules": "Tralalala",
+  "AdditionalPoints": 10,
   "Faction": "64929253-004b-41af-92b3-303763f9a51c",
   "Type": 1,
   "Size": 2,
@@ -18,5 +20,6 @@
       "AWA": 4,
       "DET": 4
     }
-  }
+  },
+  "MaxQuantity": 0
 }

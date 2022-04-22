@@ -3,6 +3,8 @@
   "Active": true,
   "Name": "Elitesoldat",
   "Description": null,
+  "Rules": "sad fasgasfggr erg wg wrg wg wagsef WEFD- Lkqw jdäoQIWJF ÄPOwpoejfoiwejf piuWHFÖ)(qzhwföäihaeföe oih< eföih ö",
+  "AdditionalPoints": 10,
   "Faction": "0a0fd6cc-d8ec-4e59-be5b-ea04b5446f69",
   "Type": 1,
   "Size": 2,
@@ -19,5 +21,5 @@
       "DET": 5
     }
   },
-  "Traits": []
+  "MaxQuantity": 0
 }
