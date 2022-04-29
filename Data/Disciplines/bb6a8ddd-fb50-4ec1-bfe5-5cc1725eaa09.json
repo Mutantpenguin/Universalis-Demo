@@ -1,0 +1,28 @@
+{
+  "ID": "bb6a8ddd-fb50-4ec1-bfe5-5cc1725eaa09",
+  "Active": true,
+  "Name": "Telekinese",
+  "Description": "Mit Gedanken Sachen bewegen",
+  "BasePoints": 30,
+  "MaxLevel": 5,
+  "Permissions": {
+    "Faction": {
+      "PermissionType": 1,
+      "Values": [
+        "64929253-004b-41af-92b3-303763f9a51c"
+      ]
+    },
+    "Archetype": {
+      "PermissionType": 0
+    },
+    "Type": {
+      "PermissionType": 0
+    },
+    "Size": {
+      "PermissionType": 0
+    },
+    "MovementType": {
+      "PermissionType": 0
+    }
+  }
+}

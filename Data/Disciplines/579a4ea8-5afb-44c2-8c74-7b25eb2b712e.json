@@ -1,0 +1,28 @@
+{
+  "ID": "579a4ea8-5afb-44c2-8c74-7b25eb2b712e",
+  "Active": true,
+  "Name": "Telepathie",
+  "Description": "",
+  "BasePoints": 40,
+  "MaxLevel": 4,
+  "Permissions": {
+    "Faction": {
+      "PermissionType": 1,
+      "Values": [
+        "64929253-004b-41af-92b3-303763f9a51c"
+      ]
+    },
+    "Archetype": {
+      "PermissionType": 0
+    },
+    "Type": {
+      "PermissionType": 0
+    },
+    "Size": {
+      "PermissionType": 0
+    },
+    "MovementType": {
+      "PermissionType": 0
+    }
+  }
+}
